@@ -1,0 +1,13 @@
+jni
+sparkgis
+sparkgis.data
+sparkgis.debug
+sparkgis.enums
+sparkgis.executionlayer
+sparkgis.executionlayer.partitioning
+sparkgis.executionlayer.spatialindex
+sparkgis.executionlayer.task
+sparkgis.io
+sparkgis.io.hdfs
+sparkgis.io.mongodb
+sparkgis.stats
